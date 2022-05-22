@@ -15,7 +15,7 @@ const App = () => {
             paddingHorizontal: 20,
             paddingVertical: 30,
           }}>
-          HELLOsss WORLD !!
+          HELo Mohsin usmani
         </Text>
       </View>
     </>
